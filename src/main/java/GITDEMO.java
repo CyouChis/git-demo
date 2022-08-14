@@ -7,5 +7,6 @@ public class GITDEMO {
         System.out.println("master demo");
         System.out.println("hot fix demo");
         System.out.println("666");
+        System.out.println("pull 666");
     }
 }
